@@ -16,3 +16,13 @@
 09:37:55.602016 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
 09:37:55.617765 db@janitor F·3 G·0
 09:37:55.617883 db@open done T·25.751417ms
+=============== Apr 9, 2023 (CEST) ===============
+10:40:01.868964 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:40:01.871493 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+10:40:01.871504 db@open opening
+10:40:01.871571 journal@recovery F·1
+10:40:01.927245 journal@recovery recovering @3
+10:40:01.944331 memdb@flush created L0@5 N·6157 S·316KiB "Dat..ion,v17":"unc..own,v25"
+10:40:01.946955 version@stat F·[2] S·317KiB[317KiB] Sc·[0.50]
+10:40:01.971403 db@janitor F·4 G·0
+10:40:01.971638 db@open done T·100.127208ms
