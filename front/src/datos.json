@@ -1,0 +1,119 @@
+{
+    "header":{
+        "name":"My Company",
+        "links":[
+            {
+                "text":"Blog",
+                "url":"http://blog.com"
+            },
+            {
+                "text":"Youtube",
+                "url":"http://youtube.com"
+            }
+        ]
+    },
+    "carousel":[
+        {
+        "text":"New Service",
+        "url":"/pic1.jpg",
+        "alt":"Pic1"
+        },
+        {
+        "text":"We offer 6 month free",
+        "url":"/pic2.jpg",
+        "alt":"Pic2"
+        },
+        {
+        "text":"Welcome to the world",
+        "url":"/pic3.jpg",
+        "alt":"Pic3"
+        }
+    ],
+    "price":[
+        {
+            "title":"Free",
+            "price":"$0",
+            "per":"month",
+            "textBottom":"Sign up for free",
+            "features":[              
+                    "10 users included",
+                    "2GB",
+                    "Email",
+                    "Help Center Crypto"
+
+            ]
+        },
+        {
+            "title":"Pro",
+            "price":"$0",
+            "per":"month",
+            "textBottom":"Sign up for free",
+            "features":[              
+                    "10 users included",
+                    "2GB",
+                    "Email",
+                    "Help Center Crypto"
+
+            ]
+        },
+        {
+            "title":"Enterprise",
+            "price":"$0",
+            "per":"month",
+            "textBottom":"Sign up for free",
+            "features":[              
+                    "10 users included",
+                    "2GB",
+                    "Email",
+                    "Help Center Crypto"
+
+            ]
+        }
+
+    ],
+    "footer": [
+        {
+            "title":"Social",
+            "links":[
+                {
+                    "title":"Youtube",
+                    "url":"http://youtube.com"
+                },
+                {
+                    "title":"Twitter",
+                    "url":"http://Twitter.com"
+                },
+                {
+                    "title":"Instagram",
+                    "url":"http://instagram.com"
+                },
+                {
+                    "title":"Facebook",
+                    "url":"http://facebook.com"
+                }
+            ]
+        },
+        {
+            "title":"Help",
+            "links":[
+                {
+                    "title":"Contact",
+                    "url":"http://contact.com"
+                },
+                {
+                    "title":"Email",
+                    "url":"http://email.com"
+                },
+                {
+                    "title":"Privacy",
+                    "url":"http://privacy.com"
+                },
+                {
+                    "title":"Terms and Conditions",
+                    "url":"http://conditions.com"
+                }
+            ]
+        }
+
+    ]
+}
