@@ -1,3 +1,5 @@
 export function Transfers() {
-    return <h1>Transfers</h1>
+    return <div>
+        <h1>Transfers</h1>
+    </div>
 }
